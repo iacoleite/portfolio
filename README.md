@@ -2,7 +2,7 @@
 
 # Portfolio
 ## Sobre
-Projeto desenvolvido no programa **ONE - Oracle Next Education** disponibilizado pela Alura em parceria com a Oracle.
+Projeto desenvolvido no programa **ONE - Oracle Next Education** realizado pela Alura em parceria com a Oracle.
 O projeto foi desenvolvido no decorrer dos cursos voltados ao desenvolvimento de habilidades em HTML, CSS e GitHub.
 
 ### Habilidades desenvolvidas:
