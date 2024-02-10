@@ -21,9 +21,6 @@ body {
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
     box-sizing: border-box;
-
-    
-    
 }
 
 .cabecalho {
@@ -97,7 +94,7 @@ padding: 02% 0% 0% 15%;
 
 .apresentacao__links__navegacao {
     display: flex;
-    width: 80%;
+    width: 325px;
     border-radius: 1.5rem;
     border: 2px solid var(--cor-terciaria);
     font-size: 1.6rem;
