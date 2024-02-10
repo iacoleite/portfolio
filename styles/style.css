@@ -95,7 +95,7 @@ padding: 02% 0% 0% 15%;
 .apresentacao__links__navegacao {
     display: flex;
     width: 325px;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
     border: 2px solid var(--cor-terciaria);
     font-size: 1.6rem;
     font-weight: 400;
